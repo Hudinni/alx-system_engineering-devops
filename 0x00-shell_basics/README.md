@@ -1,1 +1,1 @@
-parent on project directory
+project info
